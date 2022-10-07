@@ -7,14 +7,12 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project shows some completed challenges from the Advent of code event.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Python version: 3.7
 	
 ## Setup
-To run this project, install it locally using npm:
+This project can be run using either jupyter notebook or google colab.
 
